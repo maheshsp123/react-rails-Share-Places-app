@@ -1,0 +1,9 @@
+development:
+  clients:
+    default:
+      database: shared_places_2june2024
+      hosts:
+        - 127.0.0.1:27017
+          
+  options:
+    raise_not_found_error: false
