@@ -1,5 +1,5 @@
 # React on Rails stack Project for Share place app
- <img src="react on rails.png" alt="React on Rails logo" width="100" height="70"> 
+ <center><img src="react on rails.png" alt="React on Rails logo" width="150" height="70"></center>
 Share place app built as per Udemy course 'React, NodeJS, Express &amp; MongoDB - The MERN Fullstack Guide' and adapted by setting the Rails as backend. Here the backend using NodeJS is replaced with Ruby on Rails backend. This project serves as example for <b>React on Rails stack</b> project using React for frontend developments and Rails as backend.
 
 This is developed as per the instructions given in Udemy course on MERN Stack replacing Express, and NodeJS .<BR> 
